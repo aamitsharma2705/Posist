@@ -1,0 +1,11 @@
+{
+    "port": 8080,
+    "api": {
+        "baseUrl" : "/v1"
+    },
+    "mongo": {
+        "host": "",
+        "port": ""
+    }
+    
+}
